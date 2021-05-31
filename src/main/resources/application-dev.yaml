@@ -1,2 +1,8 @@
 server:
   port: 6666
+spring:
+  datasource:
+    driver-class-name:
+    username:
+    password:
+    url:
