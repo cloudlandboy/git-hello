@@ -3,3 +3,7 @@ server:
 spring:
   application:
     name: git-hello
+    driver-class-name:
+    username:
+    password:
+    url:
